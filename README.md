@@ -1,6 +1,6 @@
 # Geography Quiz
 
-An iOS application where you create a list of items you wish to have one day. You have the ability to upload item information like an image, title, price, description, and store to your dream list.
+This code implements a geography quiz with ten multiple-choice questions, tracks the player's score, and asks if they want to retake the quiz after completion.
 
 # Skills acquired
 
